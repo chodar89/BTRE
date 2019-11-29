@@ -30,3 +30,6 @@ def about(request):
     }
 
     return render(request, 'pages/about.html', context)
+
+def contact(request):
+    return render(request, 'pages/contact.html')
