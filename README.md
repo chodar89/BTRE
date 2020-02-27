@@ -1,5 +1,5 @@
 # BTRE Project
-Ok so this is a project of a estate company. Page wehere we can post, find and buy property.</br>
+Ok so this is a project of the estate company. Page wehere we can post, find and buy a property.</br>
 It is not my own projecct. I want to expand my knowlage about Django. So the project is from course.
 ## Instructor details
 - Instructor Brad Traversy - Full Stack Web Developer & Instructor at Traversy Media</br>
